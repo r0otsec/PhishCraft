@@ -2,6 +2,8 @@
   <img src="https://raw.githubusercontent.com/r0otsec/PhishCraft/refs/heads/main/assets/logo.png" alt="lurekit" width="450" height="450"/>
 </p>
 
+# PhishCraft
+
 >[!important]
 >Currently under active development and testing. Full code will be released once all bugs are resolved.
 
