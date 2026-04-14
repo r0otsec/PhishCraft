@@ -7,4 +7,4 @@
 >[!important]
 >Currently under active development and testing. Full code will be released once all bugs are resolved.
 
-PhishCraft ("phishing witchcraft") is a modern phishing infrastructure toolkit that helps you quickly deploy, manage, and destroy phishing environments for internal security assessments, social engineering simulations, and campaign testing - providing the ability to send phishing emails, serve branded landing pages, and collect credentials in a simple easy to use script.
+PhishCraft ("phishing witchcraft") is a modern phishing infrastructure toolkit that helps you quickly deploy, manage, and destroy phishing environments for internal security assessments, social engineering simulations, and campaign testing - providing the ability to send phishing emails, serve branded landing pages, and collect credentials in a simple easy to use script (with some additional cool things you didn't know about GoPhish ;) - coming soon)
