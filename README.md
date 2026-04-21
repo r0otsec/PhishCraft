@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/r0otsec/PhishCraft/refs/heads/main/assets/logo.png" alt="lurekit" width="450" height="450"/>
+  <img src="https://raw.githubusercontent.com/r0otsec/PhishCraft/refs/heads/main/assets/logo.png" alt="lurekit"/>
 </p>
 
 # PhishCraft
